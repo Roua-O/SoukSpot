@@ -1,0 +1,22 @@
+--only-binary :all:
+fastapi
+uvicorn
+fastapi-jwt
+fastapi-cli
+fastapi-security
+pydantic
+pydantic-extra-types
+pydantic-settings
+pydantic_core
+bcrypt
+python-dotenv
+python-jose
+SQLAlchemy
+typing_extensions
+annotated-types
+charset-normalizer
+cryptography
+email_validator
+fastapi_cors
+rsa
+psycopg2-binary
